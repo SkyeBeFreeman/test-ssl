@@ -1,0 +1,18 @@
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    font-family: "Microsoft YaHei UI";
+}
+h2 {
+    font-size: 20px;
+    font-weight: bolder;
+}
+li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.reward p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
